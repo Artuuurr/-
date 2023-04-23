@@ -1,0 +1,130 @@
+Body{
+    position: relative;
+    width: 1920px;
+    height: 1080px;
+    background: #69C3EA;
+    margin: 0 0;
+    background-color:#69C3EA;
+}
+img{
+    width: 100%;
+}
+header{
+    display: flex;
+}
+.logo_img{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 213px;
+    top: 29px; 
+}
+.text_header{
+    position: absolute;
+    width: 694px;
+    height: 26px;
+    left: 443px;
+    margin-top: 41px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    color: #FFFFFF; 
+}
+.header_a{
+    padding-right: 25px;
+    padding-left: 25px;
+}
+.border_button{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 111px;
+    height: 38px;
+    left: 1497px;
+    top: 37px;
+    border: 1px solid #FFFFFF;
+    border-radius: 15px;
+}
+.text_box{
+    position: absolute;
+    width: 112px;
+    height: 22px;
+    top: 7px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.page1{
+    display: flex;
+}
+.page1_text{
+    display: inline;
+}
+.page1_h1{
+    position: absolute;
+    width: 770px;
+    height: 181px;
+    left: 180px;
+    top: 320px;
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 85px;   
+    color: #FFFFFF;
+}
+b{
+    color: #FFBA6C;
+}
+.page1_p{
+    position: absolute;
+    width: 638px;
+    height: 73px;
+    left: 180px;
+    top: 540px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 152.7%;
+    color: #FFFFFF;
+}
+.page1_button{
+    position: absolute;
+    width: 243px;
+    height: 73px;
+    left: 180px;
+    top: 646px;
+    background: #FFBA6C;
+    box-shadow: 0px 0px 8px 9px rgba(255, 186, 108, 0.25);
+    border-radius: 35px;
+}
+.page1_text_box{
+    position: absolute;
+    width: 245px;
+    height: 73px;
+    left: 80px; 
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 106.7%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+.page1_img{
+    position: absolute;
+    width: 1024px;
+    height: 694.11px;
+    left: 873px;
+    top: 206px;
+}
